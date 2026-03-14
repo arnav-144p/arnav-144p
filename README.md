@@ -1,17 +1,17 @@
-# 👋 Hi, I'm Arnav Bhilwariya!
+# Hi, I'm Arnav Bhilwariya!
 
-### 💡 About Me:
+### About Me:
 Currently working on cool ML & web projects.
 
 ---
 
-### 🌐 Socials:
+### Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https.arnavv/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnavli04/)
 
 ---
 
-### 💻 Tech Stack:
+### Tech Stack:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
