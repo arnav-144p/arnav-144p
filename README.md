@@ -1,40 +1,46 @@
-# Hi, I'm Arnav Bhilwariya!
+# Arnav Bhilwariya
 
-### About Me:
-Currently working on cool ML & web projects.
+Computer science student building in ML/AI and open source.
+
+Contributed to **pytorch/torchtitan**, **BerriAI/litellm**, and **huggingface/transformers**.  
+Building **Sparrow** — an AI voice coaching platform.  
+Writing about ML on X [@https_arnav](https://x.com/https_arnav) · #100DaysOfML
 
 ---
 
-### Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https.arnavv/)
+### What I'm working on
+- Active inference / goal-directed vision for object detection
+- Open source contributions across PyTorch ecosystem and LLM tooling
+- ML internship hunt — open to roles in ML engineering, research, and applied AI
 
+---
+
+### Selected Projects
+
+**Sparrow** — AI voice coaching platform  
+**Retail Demand Forecasting** — LightGBM-based forecasting system with measurable accuracy gains
+
+---
+
+### Open Source
+| Repo | Contribution |
+|------|-------------|
+| [pytorch/torchtitan](https://github.com/pytorch/torchtitan) | CI fix — skipped failing TP+PP+compile flavor due to torchcomms PG registration bug ([#3493](https://github.com/pytorch/torchtitan/pull/3493)) ✅ Merged |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | Typo fix in proxy SSO role mappings ([#29753](https://github.com/BerriAI/litellm/pull/29753)) |
+| [huggingface/transformers](https://github.com/huggingface/transformers) | ValueError for unsupported `continue_final_message` in mistral-common tokenizer ([#46353](https://github.com/huggingface/transformers/pull/46353)) |
+
+---
+
+### Tech Stack
+
+**ML/AI** · Python · PyTorch · LightGBM · Scikit-learn · OpenCV · TensorFlow · Transformers  
+**Backend** · FastAPI · MySQL  
+**Languages** · Python · C++ · JavaScript  
+**Tools** · Git · Linux · NumPy · Pandas
+
+---
+
+### Connect
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/https_arnav)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnavli04/)
-
----
-
-### Tech Stack:
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-![OOP](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=java&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![Computer%20Networks](https://img.shields.io/badge/Computer%20Networks-2C8EBB?style=for-the-badge&logo=network&logoColor=white)
-
-<!-- Optional: Python Libraries -->
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-
----
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnav-144p)
