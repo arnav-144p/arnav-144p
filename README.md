@@ -22,7 +22,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arnav-144p&style=flat-square&color=00C8FF&label=Profile+Views&abbreviated=true)
 
-> *"A year from now you will wish you had started today."* — Karen Lamb
+"The loss curve always goes down if you stay long enough."
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
