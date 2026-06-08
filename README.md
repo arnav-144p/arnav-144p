@@ -97,7 +97,7 @@ x:          https://x.com/https_arnav
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"> Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -113,15 +113,16 @@ x:          https://x.com/https_arnav
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-## 🔀 Open Source Contributions
+## Open Source Contributions
 
 <div align="center">
 
 | Repository | Contribution | Status |
 |:-----------|:-------------|:-------|
-| [**pytorch/torchtitan**](https://github.com/pytorch/torchtitan/pull/3493) | CI fix — skipped failing `TP+PP+compile` flavor due to torchcomms PG registration bug outside c10d registry | ✅ Merged |
-| [**huggingface/transformers**](https://github.com/huggingface/transformers/pull/46353) | Added `ValueError` for unsupported `continue_final_message=True` in mistral-common tokenizer | 🔄 Open |
-| [**BerriAI/litellm**](https://github.com/BerriAI/litellm/pull/29753) | Fixed typo `generic_role_mappoings` → `generic_role_mappings` across proxy SSO role mappings | 🔄 Open |
+| [**pytorch/torchtitan**](https://github.com/pytorch/torchtitan/pull/3493) | CI fix — skipped failing `TP+PP+compile` flavor due to torchcomms PG registration bug outside c10d registry | Merged |
+| [**BerriAI/litellm**](https://github.com/BerriAI/litellm/pull/29753) | Fixed typo `generic_role_mappoings` → `generic_role_mappings` across proxy SSO role mappings | Merged |
+
+| [**huggingface/transformers**](https://github.com/huggingface/transformers/pull/46353) | Added `ValueError` for unsupported `continue_final_message=True` in mistral-common tokenizer | Open |
 
 </div>
 
