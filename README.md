@@ -103,9 +103,9 @@ x:          https://x.com/https_arnav
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [**Sparrow**](https://github.com/arnav-144p) | AI-powered voice coaching platform that analyzes pitch, clarity, and pacing to provide real-time feedback and track vocal improvement over time | `Python` `Librosa` `Scikit-learn` `Signal Processing` `Audio Analytics` |
-| [**Goal-Directed Active Vision**](https://github.com/arnav-144p) | Object detection system mimicking human visual attention — sequentially searches image regions using Active Vision, CLIP, and Inverse Reinforcement Learning | `PyTorch` `OpenCV` `CLIP` `ViT-L/14` `IRL` `NumPy` |
-| [**Retail Demand Forecasting**](https://github.com/arnav-144p) | LightGBM-based demand forecasting system with measurable accuracy gains over baseline models | `Python` `LightGBM` `Pandas` `Scikit-learn` |
+| [**Sparrow**](https://github.com/ajayyysainii/sparrow) | AI-powered voice coaching platform that analyzes pitch, clarity, and pacing to provide real-time feedback and track vocal improvement over time | `Python` `Librosa` `Scikit-learn` `Signal Processing` `Audio Analytics` |
+| [**Goal-Directed Active Vision**](https://github.com/arnav-144p/Goal-Directed-Vision) | Object detection system mimicking human visual attention — sequentially searches image regions using Active Vision, CLIP, and Inverse Reinforcement Learning | `PyTorch` `OpenCV` `CLIP` `ViT-L/14` `IRL` `NumPy` |
+| [**Retail Demand Forecasting**](https://github.com/arnav-144p/Retail-Demand-Forecast) | LightGBM-based demand forecasting system with measurable accuracy gains over baseline models | `Python` `LightGBM` `Pandas` `Scikit-learn` |
 
 </div>
 
