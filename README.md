@@ -129,20 +129,13 @@ x:          https://x.com/https_arnav
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25"> GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=arnav-144p&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00c8ff&icon_color=9d6fff&text_color=e8e8f0&rank_icon=github" height="180"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav-144p&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00c8ff&text_color=e8e8f0&langs_count=8&card_width=400" height="180"/>
-    </td>
-  </tr>
-  <tr>
+  
+  <tr>  
     <td colspan="2" align="center">
       <img src="https://streak-stats.demolab.com/?user=arnav-144p&theme=tokyonight&hide_border=true&background=0a0a0a&ring=00c8ff&fire=00c8ff&currStreakLabel=00c8ff&sideLabels=e8e8f0&dates=9d6fff" width="100%"/>
     </td>
@@ -160,7 +153,7 @@ x:          https://x.com/https_arnav
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="25"> Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
