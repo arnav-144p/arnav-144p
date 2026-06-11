@@ -121,6 +121,7 @@ x:          https://x.com/https_arnav
 |:-----------|:-------------|:-------|
 | [**pytorch/torchtitan**](https://github.com/pytorch/torchtitan/pull/3493) | CI fix — skipped failing `TP+PP+compile` flavor due to torchcomms PG registration bug outside c10d registry | Merged |
 | [**BerriAI/litellm**](https://github.com/BerriAI/litellm/pull/29753) | Fixed typo `generic_role_mappoings` → `generic_role_mappings` across proxy SSO role mappings | Merged |
+| [**stanfordnlp/dspy**](https://github.com/stanfordnlp/dspy/pull/9908) | Improved comment clarity across core modules — corrected misleading identifiers and error message text | Merged |
 | [**huggingface/transformers**](https://github.com/huggingface/transformers/pull/46353) | Added `ValueError` for unsupported `continue_final_message=True` in mistral-common tokenizer | Open |
 
 </div>
