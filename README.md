@@ -32,7 +32,7 @@
 
 ```yaml
 name:       Arnav Bhilwariya
-role:       CS Student · ML/AI Engineer · Open Source Contributor
+role:       CS Student · ML Engineer · Open Source Contributor
 location:   Jalandhar, India
 education:  B.Tech Computer Science — NIT Jalandhar
 
