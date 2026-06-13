@@ -1,4 +1,4 @@
-<!-- Arnav Bhilwariya | CS Student | ML/AI Engineer | Open Source Contributor | pytorch/torchtitan | huggingface/transformers | BerriAI/litellm | PyTorch | Scikit-learn | OpenCV | FastAPI | Python | NIT Jalandhar | #100DaysOfML | portfolio-arnav-two.vercel.app -->
+<!-- Arnav Bhilwariya | CS Student | ML Engineer | Open Source Contributor | pytorch/torchtitan | huggingface/transformers | BerriAI/litellm | PyTorch | Scikit-learn | OpenCV | FastAPI | Python | NIT Jalandhar | #100DaysOfML | portfolio-arnav-two.vercel.app -->
 
 <!-- CAPSULE RENDER ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,35:0a0a0a,65:111111,100:1a1a2e&height=200&section=header&text=Arnav%20Bhilwariya&fontSize=52&fontColor=00c8ff&fontAlignY=45&desc=CS%20Student%20%7C%20ML%2FAI%20Engineer%20%7C%20Open%20Source&descSize=16&descAlignY=68&descColor=9d6fff&animation=fadeIn&stroke=1a1a2e&strokeWidth=1" width="100%"/>
