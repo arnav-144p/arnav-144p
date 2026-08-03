@@ -10,7 +10,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=900&color=9d6fff&center=true&vCenter=true&width=720&height=36&lines=CS+Student+%7C+ML+Engineer;Open+Source+Contributor+%E2%80%94+PyTorch+%7C+HuggingFace+%7C+LiteLLM;Active+Vision+%7C+LLMs+%7C+Distributed+Training;Building+in+public+%E2%80%94+%23100DaysOfML" alt="Roles" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=3200&pause=1200&color=00C8FF&center=true&vCenter=true&width=720&height=30&lines=Merged+into+pytorch%2Ftorchtitan+%E2%9C%85;Contributed+to+pytorch%2Ftorchtitan+%7C+BerriAI%2Flitellm+%7C+stanfordnlp%2Fdspy;Sparrow+%E2%80%94+AI+Voice+Coaching+Platform;Goal-Directed+Active+Vision+System" alt="Highlights" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=3200&pause=1200&color=00C8FF&center=true&vCenter=true&width=720&height=30&lines=Merged+into+pytorch%2Ftorchtitan;Contributed+to+pytorch%2Ftorchtitan+%7C+BerriAI%2Flitellm+%7C+stanfordnlp%2Fdspy;Sparrow+%E2%80%94+AI+Voice+Coaching+Platform;Goal-Directed+Active+Vision+System" alt="Highlights" />
 <br/>
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/https_arnav)
@@ -28,7 +28,7 @@
 
 </div>
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About
+## About
 
 ```yaml
 name:       Arnav Bhilwariya
@@ -45,6 +45,8 @@ focus:
 languages:
   - Python
   - C++
+  - C
+  - Java
   - JavaScript
 
 open_to:
@@ -61,7 +63,7 @@ x:          https://x.com/https_arnav
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -69,7 +71,7 @@ x:          https://x.com/https_arnav
 
 <br/>
 
-![](https://img.shields.io/badge/-%F0%9F%A4%96%20AI%20%26%20ML-0a0a0a?style=for-the-badge)
+**AI & ML**
 
 <br/>
 
@@ -77,7 +79,7 @@ x:          https://x.com/https_arnav
 
 <br/><br/>
 
-![](https://img.shields.io/badge/-%F0%9F%94%A7%20Backend%20%26%20Tools-0a0a0a?style=for-the-badge)
+**Backend & Tools**
 
 <br/>
 
@@ -85,11 +87,11 @@ x:          https://x.com/https_arnav
 
 <br/><br/>
 
-![](https://img.shields.io/badge/-%F0%9F%92%BB%20Languages-0a0a0a?style=for-the-badge)
+**Languages**
 
 <br/>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,cpp,javascript&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript&theme=dark" /></a>
 
 </div>
 
@@ -106,6 +108,7 @@ x:          https://x.com/https_arnav
 | [**Sparrow**](https://github.com/ajayyysainii/sparrow) | AI-powered voice coaching platform that analyzes pitch, clarity, and pacing to provide real-time feedback and track vocal improvement over time | `Python` `Librosa` `Scikit-learn` `Signal Processing` `Audio Analytics` |
 | [**Goal-Directed Active Vision**](https://github.com/arnav-144p/Goal-Directed-Vision) | Object detection system mimicking human visual attention — sequentially searches image regions using Active Vision, CLIP, and Inverse Reinforcement Learning | `PyTorch` `OpenCV` `CLIP` `ViT-L/14` `IRL` `NumPy` |
 | [**Retail Demand Forecasting**](https://github.com/arnav-144p/Retail-Demand-Forecast) | LightGBM-based demand forecasting system with measurable accuracy gains over baseline models | `Python` `LightGBM` `Pandas` `Scikit-learn` |
+| [**CastDraw**](https://castdraw.pages.dev/) | Windows desktop app that overlays air-drawn hand gestures onto live video calls via a virtual camera | `Tauri` `Next.js` `TypeScript` `C++` `COM` |
 
 </div>
 
@@ -123,30 +126,6 @@ x:          https://x.com/https_arnav
 | [**BerriAI/litellm**](https://github.com/BerriAI/litellm/pull/29753) | Fixed typo `generic_role_mappoings` → `generic_role_mappings` across proxy SSO role mappings | Merged |
 | [**stanfordnlp/dspy**](https://github.com/stanfordnlp/dspy/pull/9908) | Improved comment clarity across core modules — corrected misleading identifiers and error message text | Merged |
 | [**huggingface/transformers**](https://github.com/huggingface/transformers/pull/46353) | Added `ValueError` for unsupported `continue_final_message=True` in mistral-common tokenizer | Open |
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-## GitHub Stats
-
-<div align="center">
-
-<table>
-  
-  <tr>  
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=arnav-144p&theme=tokyonight&hide_border=true&background=0a0a0a&ring=00c8ff&fire=00c8ff&currStreakLabel=00c8ff&sideLabels=e8e8f0&dates=9d6fff" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnav-144p&bg_color=0a0a0a&color=00c8ff&line=1a1a2e&point=9d6fff&area=true&hide_border=true" width="100%"/>
-    </td>
-  </tr>
-</table>
 
 </div>
 
