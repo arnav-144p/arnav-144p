@@ -99,6 +99,31 @@ x:          https://x.com/https_arnav
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
+## Activity Overview
+
+<div align="center">
+
+📊 **GitHub Stats & Activity**
+
+<br/>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnav-144p&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C8FF&icon_color=9d6fff&text_color=c9cacc)](https://github.com/arnav-144p)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnav-144p&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C8FF&text_color=c9cacc)](https://github.com/arnav-144p)
+
+<br/>
+
+**Recent Contributions:** Actively contributing to **27+ repositories** including:
+- **pytorch/torchtitan** — Distributed training & CI infrastructure
+- **BerriAI/litellm** — LLM proxy & tooling
+- **ajayysainii/invoice**, **ajayysainii/fiver-2**, **sarthakdixit7376/CustomCRM** — Full-stack & ML projects
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
 ## Featured Projects
 
 <div align="center">
