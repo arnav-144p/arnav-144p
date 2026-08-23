@@ -1,0 +1,116 @@
+name: Update Activity Overview
+
+on:
+  schedule:
+    # Run daily at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install PyGithub
+
+      - name: Update Activity Overview
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python - << 'EOF'
+          import os
+          from github import Github
+          from collections import defaultdict
+          
+          g = Github(os.environ.get('GITHUB_TOKEN'))
+          user = g.get_user('arnav-144p')
+          
+          # Fetch commits per repo
+          repo_commits = defaultdict(int)
+          total_commits = 0
+          
+          for repo in user.get_repos(sort='updated', direction='desc'):
+              try:
+                  commits = repo.get_commits(author=user).totalCount
+                  if commits > 0:
+                      repo_commits[repo.name] = commits
+                      total_commits += commits
+              except:
+                  pass
+          
+          # Sort by commits
+          sorted_repos = sorted(repo_commits.items(), key=lambda x: x[1], reverse=True)
+          
+          # Get created repos
+          created_repos = []
+          for repo in user.get_repos(sort='created', direction='desc'):
+              if not repo.fork:
+                  lang = repo.language if repo.language else "No Language"
+                  created_repos.append({
+                      'name': repo.name,
+                      'url': repo.html_url,
+                      'language': lang
+                  })
+                  if len(created_repos) >= 3:
+                      break
+          
+          # Build table
+          table = "| Repository | Commits |\n|:-----------|:--------|\n"
+          for repo_name, commits in sorted_repos[:9]:
+              table += f"| [arnav-144p/{repo_name}](https://github.com/arnav-144p/{repo_name}) | {commits} |\n"
+          
+          # Build created repos
+          created = "\n**Created 3 repositories**\n\n"
+          for repo in created_repos:
+              created += f"- [{repo['name']}]({repo['url']}) · {repo['language']}\n"
+          
+          activity_section = f"""## Activity Overview
+
+<div align="center">
+
+**Created {total_commits} commits in {len(repo_commits)} repositories**
+
+{table}
+{created}
+</div>"""
+          
+          # Read README
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+          
+          # Replace Activity Overview section
+          import re
+          pattern = r'## Activity Overview.*?(?=\n## |\Z)'
+          if re.search(pattern, content, re.DOTALL):
+              content = re.sub(pattern, activity_section.strip(), content, flags=re.DOTALL)
+          
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(content)
+          
+          print("✅ Activity Overview updated!")
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          if git diff --quiet README.md; then
+            echo "✅ No changes"
+          else
+            git add README.md
+            git commit -m "chore: update activity overview [skip ci]"
+            git push origin main
+          fi
